@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+
+}
+
+table, th, td{
+border: 1px solid black
+
+}
+
+h1, p{
+
+    color: rgb(0, 0, 0);
+    background: rgb(207, 190, 30);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+th{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-color: rgb(235, 194, 16);
+}
+
+td{
+
+    border-color: rgb(233, 200, 15);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
